@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c47c951-97f9-499b-b452-48af581f4594" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/wsp2.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/grid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_19.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extra-content/snap_9.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/today's-flavours.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="wsp2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -57,7 +30,16 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="6" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.9461967" vertical-offset="0" max-vertical-offset="630">
+            <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="0.08348794" vertical-offset="0" max-vertical-offset="630">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="today's-flavours.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/today's-flavours.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="66" selection-start="971" selection-end="971" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -76,6 +58,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/today's-flavours.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -254,9 +237,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/today's-flavours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="66" selection-start="971" selection-end="971" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="6" selection-start="1346" selection-end="1346" vertical-scroll-proportion="0.9461967" vertical-offset="0" max-vertical-offset="630">
+        <state line="3" column="40" selection-start="70" selection-end="70" vertical-scroll-proportion="0.08348794" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
